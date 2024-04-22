@@ -18,4 +18,4 @@ class MyGUI:
 
         self.root.mainloop
 
-MyGUI()
+yGUI()
